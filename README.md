@@ -2,7 +2,7 @@ project name: vehicle_rental_system
 Live_link: https://l2-assignment-2-gamma.vercel.app
 
 
-Technology stack & Features -
+--Technology stack & Features -
 
     Technology stack:
      ** Node.js + TypeScript
@@ -17,7 +17,7 @@ Technology stack & Features -
     ** simple rental system
     ** realtime data management
 
-Setup & Usage -
+--Setup & Usage -
    Setup: 
      ** git clone https://github.com/mtrkali/vehicle_rental_system.git
      ** npm install
